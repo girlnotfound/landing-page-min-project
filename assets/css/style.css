@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    background-color: #ccf1ff;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+}
+
+.navigation ul {
+    display: inline;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image-container {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+    width: 300px;
+    height: 300px
+}
+
+p {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
